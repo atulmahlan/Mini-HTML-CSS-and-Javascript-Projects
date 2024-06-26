@@ -1,0 +1,33 @@
+Image Search App
+Description
+The Image Search App is a web application that allows users to search for images using the Unsplash API. Users can input keywords, and the app retrieves and displays relevant images from Unsplash. The app provides an intuitive and user-friendly interface for seamless image searching and browsing.
+
+Features
+Search Functionality: Users can enter keywords into the search bar to find images related to their search terms.
+Dynamic Image Display: Images are dynamically fetched and displayed on the page based on the user's search query.
+Load More Images: Users can load more images by clicking the "Show More" button, which fetches additional images from the API.
+Responsive Design: The app is designed to be responsive and user-friendly on various devices, including desktops, tablets, and smartphones.
+Implementation Details
+Unsplash API: Utilizes the Unsplash API to fetch images based on user queries. The API key is required for authentication.
+JavaScript: Handles API requests, updates the DOM with search results, and manages pagination for loading more images.
+HTML/CSS: Provides the structure and styling for the app, ensuring a clean and intuitive user interface.
+Code Overview
+Variables and Elements:
+
+accessKey: Unsplash API key.
+formEl: Form element for submitting search queries.
+searchInputEl: Input element for entering search keywords.
+searchResultsEl: Container element for displaying search results.
+showMoreButtonEl: Button element for loading more images.
+Functionality:
+
+searchImages(): Asynchronous function to fetch and display images based on the search query. Handles pagination and appends new images to the results container.
+formEl.addEventListener("submit"): Event listener to handle form submission, triggering the search.
+showMoreButtonEl.addEventListener("click"): Event listener to handle loading more images.
+Usage
+Enter a keyword in the search bar.
+Click the search button or press Enter to initiate the search.
+Browse the displayed images.
+Click the "Show More" button to load additional images if available.
+Example
+A user searching for "sunsets" will enter the keyword in the search bar, triggering the app to fetch and display images related to sunsets. The user can then click "Show More" to load more sunset images, enhancing their browsing experience.
