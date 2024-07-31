@@ -10,32 +10,32 @@ This collection consist of beginner and intermediate projects made using HTML, C
 5. Interactive Elements: Utilize JavaScript to add dynamic and interactive features.
 
 ## List of Projects:
-1. Age Calculator
-2. Tip Calculator
-3. Recipe Book App
-4. Dice Roll Simulator
-5. Pomodoro Timer
-6. Rock, Paper, Scissors
-7. Stopwatch
-8. Weather App
-9. Image Search App
-10. Basic Calculator
-11. Joke Generator
-12. Photo Gallery
-13. English Dictionary
-14. Anime Pics Generator
-15. Notes App
-16. BMI Calculator
-17. Random Quote Generator
-18. Random Emoji
-19. Feedback UI
-20. Button Ripple Effect
-21. Digital Clock
-22. Rotating Image Gallery
-23. Real Time Character Counter
-24. Profile Statistics
-25. Heart Trail Animation
-26. Mini Calendar
-27. Animated Search Bar
-28. Social Media Selector Menu
-29. Random Password Generator
+1. Age Calculator -- www.agecalculatoram.netlify.app
+2. Tip Calculator -- www.tipcalculatoram.netlify.app
+3. Recipe Book App -- www.recipebookappam.netlify.app
+4. Dice Roll Simulator -- www.dicerollsimulatoram.netlify.app
+5. Pomodoro Timer -- www.pomodorotimeram.netlify.app
+6. Rock, Paper, Scissors -- www.rockpaperscissorsam.netlify.app
+7. Stopwatch -- www.stopwatcham.netlify.app
+8. Weather App -- www.weatherappam1.netlify.app
+9. Image Search App -- www.imagesearchappam.netlify.app
+10. Basic Calculator -- www.basiccalculator.netlify.app
+11. Joke Generator -- www.jokegeneratoram.netlify.app
+12. Photo Gallery -- www.photogalleryam.netlify.app
+13. English Dictionary -- www.englishdictionaryam.netlify.app
+14. Anime Pics Generator -- www.animepicsgeneratoram.netlify.app
+15. Notes App -- www.notesappam.netlify.app
+16. BMI Calculator -- www.bmicalculatoram.netlify.app
+17. Random Quote Generator -- www.randomquotegenerator.netlify.app
+18. Random Emoji -- www.randomemojiam.netlify.app
+19. Feedback UI -- www.feedbackuiam.netlify.app
+20. Button Ripple Effect -- www.buttonrippleffectam.netlify.app
+21. Digital Clock -- www.digitalclockam.netlify.app
+22. Rotating Image Gallery -- www.rotatingimagegalleryam.netlify.app
+23. Real Time Character Counter -- www.realtimecharactercounteram.netlify.app
+24. Profile Statistics -- www.profilestatisticsam.netlify.app
+25. Heart Trail Animation -- www.hearttrailanimationam.netlify.app
+26. Mini Calendar -- www.minicalendaram.netlify.app
+27. Animated Search Bar -- www.animatedsearchbaram.netlify.app
+28. Social Media Selector Menu -- www.socialmediaselectormenuam.netlify.app
+29. Random Password Generator -- www.randompasswordgeneratoram.netlify.app
