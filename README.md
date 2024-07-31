@@ -10,7 +10,7 @@ This collection consist of beginner and intermediate projects made using HTML, C
 5. Interactive Elements: Utilize JavaScript to add dynamic and interactive features.
 
 ## List of Projects:
-1. Age Calculator -- www.agecalculatoram.netlify.app
+1. Age Calculator -- agecalculatoram.netlify.app
 2. Tip Calculator -- www.tipcalculatoram.netlify.app
 3. Recipe Book App -- www.recipebookappam.netlify.app
 4. Dice Roll Simulator -- www.dicerollsimulatoram.netlify.app
