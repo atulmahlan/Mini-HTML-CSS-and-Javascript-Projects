@@ -35,3 +35,4 @@ An event listener is added to the button (btnEl) to trigger the calculateAge fun
 
 This project demonstrates how to build a simple interactive web application that performs date calculations and dynamically updates the user interface based on user input.
 
+![Screenshot 2024-07-30 002507](https://github.com/user-attachments/assets/d29e372d-2f0b-41a0-8d9b-3b3afe56e4e7)
